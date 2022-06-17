@@ -1,0 +1,38 @@
+﻿-------------- Record Of AddressBook System -------------
+
+
+Record No :- 1
+
+FirstName :- Rutuja
+LastName :- Patil
+Address :- Sinnre
+City :- Nashik
+State :- MH
+Zip :- 422010
+PhoneNumber :- 9999455656
+Email :- abc@gmail.com
+
+
+Record No :- 2
+
+FirstName :- Raj
+LastName :- Aher
+Address :- Kalvan
+City :- Nashik
+State :- MH
+Zip :- 422009 
+PhoneNumber :- 7898989999
+Email :- xyz@gmail.com
+
+
+Record No :- 3
+
+FirstName :- Priyanka
+LastName :- Sonwane
+Address :- shivaji nagar
+City :- Pune
+State :- MH
+Zip :- 456666
+PhoneNumber :- 9898090900
+Email :- pri@gmail.com
+
